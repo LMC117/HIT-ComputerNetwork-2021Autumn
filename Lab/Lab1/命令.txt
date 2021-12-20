@@ -1,0 +1,9 @@
+g++ main.cpp -l ws2_32 -o main.exe
+
+访问网址：
+http://jwts.hit.edu.cn/ （验证基础功能）
+http://jwts.hit.edu.cn/ （再次输入，验证Cache）
+http://today.hit.edu.cn/（验证屏蔽功能）
+http://jwc.hit.edu.cn/（验证钓鱼功能）
+最后修改屏蔽用户列表，验证用户屏蔽功能
+
